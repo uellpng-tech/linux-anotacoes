@@ -7,3 +7,4 @@
 - [Terminal: Manipulação de diretórios](manipulacao-de-diretorios-e-arquivos.md)
 ##
 - [Referências](referencias/README.md)
+- [Certificações](certificacoes/README.md)
